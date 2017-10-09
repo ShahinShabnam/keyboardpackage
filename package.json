@@ -1,0 +1,28 @@
+{
+  "name": "keyboardpackage",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ShahinShabnam/keyboardpackage.git"
+  },
+  "author": {
+    "name": "y",
+    "email": "shabnam.shahin@rancelab.com"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ShahinShabnam/keyboardpackage.git/issues"
+  },
+  "main": "keyboardpackage.umd.js",
+  "module": "keyboardpackage.js",
+  "jsnext:main": "keyboardpackage.js",
+  "typings": "keyboardpackage.d.ts",
+  "peerDependencies": {
+    "@angular/core": "^4.0.0",
+    "rxjs": "^5.1.0",
+    "zone.js": "^0.8.4"
+  }
+}
